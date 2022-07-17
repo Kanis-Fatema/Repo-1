@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.imageset{
+    background-image:url(donation0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width:100%;
+}
+a{
+    text-decoration: none;
+    background-image:linear-gradient(red,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+}
+.textalignset{
+    text-align: center;
+    color:rebeccapurple;
+}
+.another{
+    font-size: 50px; 
+    padding-top:50px ;
+}
+.positionset{
+    text-align: center;
+}
