@@ -27,3 +27,12 @@ a{
 .positionset{
     text-align: center;
 }
+.anotherclass{
+    text-align: center;
+    color:black;
+    font-size: 40px; 
+    padding-top:40px ;
+}
+.align{
+    text-align: center;
+}
