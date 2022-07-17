@@ -36,3 +36,31 @@ a{
 .align{
     text-align: center;
 }
+.boxmodelset{
+    display: flex;
+    text-align: center;
+    margin-left: 10%;
+}
+.boxmodelset p{
+    font-size: 20px;
+    background-color: antiquewhite;
+    border-radius: 2px;
+    padding: 20px 30px;
+    height: 40px;
+    width: 40;
+    margin: 20px;
+    font-weight: 700;
+}
+.colorset{
+    color: rgb(156, 10, 78);
+    background-color: pink;
+    border:3px solid rgb(124, 9, 28);
+}
+.borderset{
+    color: rgb(54, 53, 53);
+    border-bottom: 1px solid rgb(54, 53, 53);
+    text-align: center;
+    width:70% ;
+    margin-bottom: 50px;
+    margin-left: 15%;
+}
