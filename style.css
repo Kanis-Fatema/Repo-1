@@ -18,7 +18,7 @@ a{
 }
 .textalignset{
     text-align: center;
-    color:rebeccapurple;
+    color:purple;
 }
 .another{
     font-size: 50px; 
@@ -64,15 +64,14 @@ a{
     margin-bottom: 50px;
     margin-left: 15%;
 }
-section{
+.flexadded{
     display: flex;
     text-align:left;
     margin: 5%;
 }
-section div{
-    background-color:antiquewhite;
+.flexadded div{
     padding:2%;
-    border-radius: 5px;
+    border-radius: s5px;
     margin-left:2%;
     width: 80%;
 }
@@ -81,4 +80,26 @@ section div{
 }
 .coloradded{
     background-color:rosybrown;
+}
+.coloraddagain{
+    background-color:palevioletred;
+}
+.displaycorrection{
+    display: flex;
+}
+.half-width{
+    width: 80%;
+    padding-left: 2%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    height: 500px;
+}
+.fontadded{
+    font-size: 40px;
+}
+.positionadd{
+    text-align: left;
 }
