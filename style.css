@@ -106,3 +106,20 @@ a{
 .paddingset{
     margin-top: 10%;
 }
+.update{
+    text-align: center;
+    color:black;
+    font-size: 40px; 
+    padding-top: 2px;
+}
+footer{
+    color:rgb(223, 66, 66) ;
+    text-align: center;
+    background-color: rgb(27, 26, 26);
+    padding:5% 30%;
+    margin-top: 5%;
+}
+span{
+    font-family: fantasy; 
+    font-size:30px;
+}
